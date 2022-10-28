@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/khs-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+<img src=["https://img.shields.io/badge/khs](https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EB%8C%80%ED%95%99%EA%B5%90#/media/%ED%8C%8C%EC%9D%BC:Seoultech_LOGO.png)-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
 
 <!--
