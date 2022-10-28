@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/pytorch-000000?style=plastic&logo=#EE4C2C&logoColor=000000"/></a>
+<img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=for-the-badge&logo=abc&logoColor=black">
 
 
 <!--
