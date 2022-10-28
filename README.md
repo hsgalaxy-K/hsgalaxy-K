@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Pytorch-fffff?style=flat-square&logo=#EE4C2C&logoColor=white"/></a>&nbsp 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/pytorch-00000?style=plastic&logo=#EE4C2C&logoColor=ee4c2c"/></a>
+
 
 <!--
 **hsgalaxy-K/hsgalaxy-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
