@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hsgalaxy-Kim&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Kim-Hyeonseok&fontSize=90" />
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>
