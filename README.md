@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/#EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
 
