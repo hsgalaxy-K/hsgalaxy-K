@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsgalaxy-K&show_icons=true&theme=transparent)</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsgalaxy-Kim&show_icons=true&theme=transparent)</a>
 <!--
 **hsgalaxy-K/hsgalaxy-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
