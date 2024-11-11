@@ -21,6 +21,7 @@
 ## Conferences
   * H.Kim, and Y.Lee, "Class-Agnostic Self-Supervised Learning for Image Angle Classification", ICCAS, Oct. 2023.
   * H.Kim, and Y.Lee, "Object Detection Method Using Adversarial Learning on Domain Discriminator", ICESI, Nov. 2022.
+  * Y.Park, and M.Kim, H.Kim, Y.Lee, "SP2Mask4D: Efficient 4D Panoptic Segmentation Using Superpoint Transformers", ICEIC, Jan. 2025.
 
 ## Experience
   * 2024 1학기, 서울과학기술대학교 `딥러닝(41001)` 실습 조교
