@@ -19,9 +19,9 @@
   * 1st) 2024, [ETRI 자율성장 인공지능 경진대회 시즌 5 최우수상, 과학기술정보통신부 장관상](https://www.etnews.com/20241018000139)
 
 ## Conferences
-  * H.Kim, and Y.Lee, "Class-Agnostic Self-Supervised Learning for Image Angle Classification", ICCAS, Oct. 2023.
-  * H.Kim, and Y.Lee, "Object Detection Method Using Adversarial Learning on Domain Discriminator", ICESI, Nov. 2022.
-  * Y.Park, and M.Kim, H.Kim, Y.Lee, "SP2Mask4D: Efficient 4D Panoptic Segmentation Using Superpoint Transformers", ICEIC, Jan. 2025.
+  * Y.Park, and M.Kim, **H.Kim**, Y.Lee, "SP2Mask4D: Efficient 4D Panoptic Segmentation Using Superpoint Transformers", ICEIC, Jan. 2025.
+  * **H.Kim**, and Y.Lee, "[Class-Agnostic Self-Supervised Learning for Image Angle Classification](https://ieeexplore.ieee.org/abstract/document/10317040)", ICCAS, Oct. 2023.
+  * **H.Kim**, and Y.Lee, "[Object Detection Method Using Adversarial Learning on Domain Discriminator](https://koreascience.kr/article/CFKO202214438256258.pdf)", ICESI, Nov. 2022.
 
 ## Experience
   * 2024 1학기, 서울과학기술대학교 `딥러닝(41001)` 실습 조교
