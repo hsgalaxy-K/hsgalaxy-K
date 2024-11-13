@@ -11,6 +11,11 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsgalaxy-Kim&show_icons=true&theme=transparent)</a>-->
 
+## Education
+  * Master of Science in Electrical and Information Engineering (Fab. 2024 ~ Present)
+  * Bachelor of Science in Electrical and Information Engineering (Mar. 2020 ~ Fab. 2024)
+  * Bachelor of Science in ICT Artificial Intelligence Major (Dual Degree) (Mar. 2021 ~ Fab. 2024)
+
 ## Awards
   * 1st) 2021, SEOULTECH Drone,3D-printer,Robot (DDR) Camp 대상
   * 1st) 2023, [제3회 CJ대한통운 미래기술챌린지 대상](http://www.dizzotv.com/site/data/html_dir/2023/09/18/2023091880151.html)
