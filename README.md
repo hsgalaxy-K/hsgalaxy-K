@@ -29,6 +29,10 @@
   * **H.Kim**, and Y.Lee, "[Class-Agnostic Self-Supervised Learning for Image Angle Classification](https://ieeexplore.ieee.org/abstract/document/10317040)", ICCAS, Oct. 2023.
   * **H.Kim**, and Y.Lee, "[Object Detection Method Using Adversarial Learning on Domain Discriminator](https://koreascience.kr/article/CFKO202214438256258.pdf)", Autumn Annual Conference of IBME, Nov. 2022.
 
+## Patents
+  * Y. Lee, **H. Kim**, "영상의 회전 각도를 추정하는 추정 모델을 학습 시키는 학습 장치 및 학습 방법",
+    KR Application 10-2023-0137758, 2023.
+
 ## Experience
   * 2024 2학기, 서울과학기술대학교 `머신러닝(31003)` 실습 조교
   * 2024 1학기, 서울과학기술대학교 `딥러닝(41001)` 실습 조교
