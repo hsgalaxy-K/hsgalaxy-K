@@ -32,10 +32,6 @@
 ## Patents
   * Y. Lee, **H. Kim**, "영상의 회전 각도를 추정하는 추정 모델을 학습 시키는 학습 장치 및 학습 방법", KR Application 10-2023-0137758, 2023.
   * Y. Lee, **H. Kim**, "제로 샷 학습을 사용한 3D 객체 분할 딥러닝 모델 학습 방법 및 장치", KR Application 10-2025-0021520, 2025.
-
-## Experience
-  * 2024 2학기, 서울과학기술대학교 `머신러닝(31003)` 실습 조교
-  * 2024 1학기, 서울과학기술대학교 `딥러닝(41001)` 실습 조교
 <!--
 **hsgalaxy-K/hsgalaxy-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
