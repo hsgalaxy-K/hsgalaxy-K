@@ -29,6 +29,10 @@
   * **H.Kim**, and Y.Lee, "[Class-Agnostic Self-Supervised Learning for Image Angle Classification](https://ieeexplore.ieee.org/abstract/document/10317040)", ICCAS, Oct. 2023.
   * **H.Kim**, and Y.Lee, "[Object Detection Method Using Adversarial Learning on Domain Discriminator](https://koreascience.kr/article/CFKO202214438256258.pdf)", Autumn Annual Conference of IBME, Nov. 2022.
 
+## Journal
+  (*equal contribution)
+  * M.Kim*, **H.Kim** *, Y.Lee, "Development of On-Device XR Workspace System Using Real-Time Hand Gesture Recognition with a Mobile 2D Camera", Journal of Institute of Control, Robotics and Systems (in Korean), May 2025.
+
 ## Patents
   * Y. Lee, **H. Kim**, "영상의 회전 각도를 추정하는 추정 모델을 학습 시키는 학습 장치 및 학습 방법", KR Application 10-2023-0137758, 2023.
   * Y. Lee, **H. Kim**, "제로 샷 학습을 사용한 3D 객체 분할 딥러닝 모델 학습 방법 및 장치", KR Application 10-2025-0021520, 2025.
