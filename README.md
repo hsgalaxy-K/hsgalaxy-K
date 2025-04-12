@@ -24,7 +24,7 @@
   * 1st) 2021, SEOULTECH Drone,3D-printer,Robot (DDR) Camp 대상
 
 ## Conferences
-  * **H.Kim**, B.Kang, Y.Lee, "Generalized Zero-Shot Learning for Point Cloud Segmentation with Evidence-based Dynamic Calibration", **AAAI(Oral)**, Feb. 2025.
+  * **H.Kim**, B.Kang, Y.Lee, "[Generalized Zero-Shot Learning for Point Cloud Segmentation with Evidence-based Dynamic Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/32446)", **AAAI(Oral)**, Feb. 2025.
   * Y.Park, D.D.Tran, M.Kim, **H.Kim**, and Y.Lee, "[SP2Mask4D: Efficient 4D Panoptic Segmentation Using Superpoint Transformers](https://ieeexplore.ieee.org/abstract/document/10879637)", ICEIC, Jan. 2025.
   * **H.Kim**, and Y.Lee, "[Class-Agnostic Self-Supervised Learning for Image Angle Classification](https://ieeexplore.ieee.org/abstract/document/10317040)", ICCAS, Oct. 2023.
   * **H.Kim**, and Y.Lee, "[Object Detection Method Using Adversarial Learning on Domain Discriminator](https://koreascience.kr/article/CFKO202214438256258.pdf)", Autumn Annual Conference of IBME, Nov. 2022.
