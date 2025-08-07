@@ -12,6 +12,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsgalaxy-Kim&show_icons=true&theme=transparent)</a>-->
 
 ## Education
+  * Doctor of Philosophy in Electrical and Information Engineering, starting Sept. 2025
   * Master of Science in Electrical and Information Engineering (Fab. 2024 ~ Aug. 2025)
   * Bachelor of Science in Electrical and Information Engineering (Mar. 2020 ~ Fab. 2024)
   * Bachelor of Science in ICT Artificial Intelligence Major (Dual Degree) (Mar. 2021 ~ Fab. 2024)
