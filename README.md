@@ -24,6 +24,9 @@
   * 1st) 2023, [제3회 CJ대한통운 미래기술챌린지 대상](http://www.dizzotv.com/site/data/html_dir/2023/09/18/2023091880151.html)
   * 1st) 2021, SEOULTECH Drone,3D-printer,Robot (DDR) Camp 대상
 
+  * 2025, 서울과학기술대학교 석사학위논문 우수논문상
+  * 2023, 수림재단 동교인재상
+
 ## Conferences
   * **H.Kim**, B.Kang, Y.Lee, "[Generalized Zero-Shot Learning for Point Cloud Segmentation with Evidence-based Dynamic Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/32446)", **AAAI(Oral)**, Feb. 2025.
   * Y.Park, D.D.Tran, M.Kim, **H.Kim**, and Y.Lee, "[SP2Mask4D: Efficient 4D Panoptic Segmentation Using Superpoint Transformers](https://ieeexplore.ieee.org/abstract/document/10879637)", ICEIC, Jan. 2025.
