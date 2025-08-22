@@ -12,7 +12,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hsgalaxy-Kim&show_icons=true&theme=transparent)</a>-->
 
 ## Education
-  * Doctor of Philosophy in Electrical and Information Engineering, starting Sept. 2025
+  * Doctor of Philosophy in Electrical and Information Engineering (Sept. 2025 ~ Present)
   * Master of Science in Electrical and Information Engineering (Fab. 2024 ~ Aug. 2025)
   * Bachelor of Science in Electrical and Information Engineering (Mar. 2020 ~ Fab. 2024)
   * Bachelor of Science in ICT Artificial Intelligence Major (Dual Degree) (Mar. 2021 ~ Fab. 2024)
@@ -24,7 +24,7 @@
   * 1st) 2023, [제3회 CJ대한통운 미래기술챌린지 대상](http://www.dizzotv.com/site/data/html_dir/2023/09/18/2023091880151.html)
   * 1st) 2021, SEOULTECH Drone,3D-printer,Robot (DDR) Camp 대상
 
-  * 2025, 서울과학기술대학교 석사학위논문 우수논문상
+  * 2025, 서울과학기술대학교 전기정보공학과 석사학위논문 우수논문상
   * 2023, 수림재단 동교인재상
 
 ## Conferences
